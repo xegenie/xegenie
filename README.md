@@ -1,5 +1,3 @@
-![header](https://via.placeholder.com/800x200/1abc9c/ffffff?text=풀스택+개발자+이세진입니다)
-
   
 # Thank you for visiting 👋
 <h1 align="center"> 풀스택 개발자 이세진입니다. </h1>

@@ -13,7 +13,7 @@
 ---
 
 ## 📂 **Portfolio**  
-- ![Click Me](https://purring-wolfberry-a44.notion.site/Full-Stack-Developer-1692b8cb76648029843ad6392dc3ba9e?pvs=4)  
+- [![Click Me](https://img.shields.io/badge/ClickMe-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://purring-wolfberry-a44.notion.site/Full-Stack-Developer-1692b8cb76648029843ad6392dc3ba9e?pvs=4)  
 
 ---
 

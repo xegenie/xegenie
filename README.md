@@ -1,6 +1,6 @@
 # Thank you for visiting 👋
 <h1 align="center"> 풀스택 개발자 이세진입니다. </h1>
-<h3 align="center">🙇‍♂️full-stack developer from Korea</h3>
+<h3 align="center">full-stack developer from Korea</h3>
 
 ---
 

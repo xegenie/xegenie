@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/eac48fb9-f086-4429-bd3a-358730bac529)
+
   
 # Thank you for visiting 👋
 <h1 align="center"> 풀스택 개발자 이세진입니다. </h1>

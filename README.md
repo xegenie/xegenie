@@ -1,4 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  
 # Thank you for visiting 👋
 <h1 align="center"> 풀스택 개발자 이세진입니다. </h1>
 <h3 align="center">full-stack developer from Korea</h3>

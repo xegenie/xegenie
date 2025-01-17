@@ -41,14 +41,13 @@
 
 
 ## 🚀 **Languages and Tools:**  
-<p align="left"> 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
- ![JSS](https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=black)
 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JSS](https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=black)
+
 
 ---
 

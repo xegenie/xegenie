@@ -1,5 +1,5 @@
-<h1 align="center"> 👋 안녕하세요 풀스택 개발자 오승원 입니다.</h1>
-<h3 align="center">full-stack developer from Korea</h3>
+<h1 align="center"> “Full-Stack Developer” 이세진입니다. </h1>
+<h3 align="center">🙇‍♂️full-stack developer from Korea</h3>
 
 ---
 

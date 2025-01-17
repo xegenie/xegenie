@@ -1,34 +1,34 @@
-<h1 align="center"> “Full-Stack Developer” 이세진입니다. </h1>
+<h1 align="center"> 안녕하세요 개발자 이세진입니다. </h1>
 <h3 align="center">🙇‍♂️full-stack developer from Korea</h3>
 
 ---
 
 ## 👨‍💻 **About Me**  
-- 🎓 **Education:** 부천대학교 전자과 졸업 (2021.03 ~ 2023.02), 정보처리기사 자격증 보유
-- 🛠️ **Skills:** Java, Spring Boot, Flutter, React 등  
-- 🎯 **Goals:** 사용자 친화적이고 안정적인 서비스를 개발하는 풀스택 개발자  
+- 🎓 **Education:** 세명대학교 전기공학 전공
+- 🛠️ **Skills:** Java, JavaScript, JSP, Spring, Spring Boot, MyBatis, HTML5, Ajax, React 
+- 🙋‍♂️ **character:** 친화력이 좋고 강한 적응력을 기반으로 여러 상황에 순발력있게 대응함
 - 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
 
 
 ---
 
 ## 📂 **Portfolio**  
-- [📝 포트폴리오 페이지](https://chestnut-blinker-ca6.notion.site/167902bdb12f80828036d3d0221a6414?pvs=4)  
+- [📝 포트폴리오 페이지](https://purring-wolfberry-a44.notion.site/Full-Stack-Developer-1692b8cb76648029843ad6392dc3ba9e?pvs=4)  
 
 ---
 
 ## 🛠️ **Projects**  
 
-### 📌 **핏넥서스[정규 프로젝트]**  
+### 📌 **핏 넥서스(헬스장 사이트)**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
 - **주제 :** 헬스장 관리 및 PT예약 시스템  
-- [핏넥서스 GitHub 링크](https://github.com/xegenie/MSA9_GYM.git)
+- [핏넥서스 GitHub 링크](https://github.com/xegenie/gym_project)
 
 
-### 📌 **흑백요리사[미니 프로젝트]**  
+### 📌 **더조은 도서관**  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
-- **주제 :** 맛집 평점 및 리뷰 관리 시스템  
-- [흑백요리사 GitHub 링크](https://github.com/xegenie/MSA9_Food.git)
+- **주제 :** 도서 예약/대출 및 게시판 커뮤니티 시스템  
+- [흑백요리사 GitHub 링크](https://github.com/xegenie/library_project)
 
 
 ---
@@ -62,8 +62,7 @@
 
 ## 📞 **Contact Me**  
 
-- 📧 **Email:** [ajtwodtmdnjs@gmail.com](mailto:ajtwodtmdnjs@gmail.com)  
-- 📱 **Phone:** 010-5314-8766  
+- 📧 **Email:** [dltpwlswkdf@gmail.com](mailto:dltpwlswkdf@gmail.com)  
 
 
 

@@ -5,10 +5,7 @@
 
 ## 👨‍💻 **About Me**  
 - 🎓 **Education:** 세명대학교 전기공학 전공
-- 🛠️ **Skills:** Java, JavaScript, JSP, Spring, Spring Boot, MyBatis, HTML5, Ajax, React 
 - 🙋‍♂️ **character:** 친화력이 좋고 강한 적응력을 기반으로 여러 상황에 순발력있게 대응함
-- 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
-
 
 ---
 

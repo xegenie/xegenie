@@ -18,7 +18,7 @@
 
 ## 🛠️ **Projects**  
 
-### 📌 **핏 넥서스(헬스장 사이트)**  
+### 📌 **핏 넥서스(헬스장 웹사이트)**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
 - **주제 :** 헬스장 관리 및 PT예약 시스템  
 - [핏넥서스 GitHub 링크](https://github.com/xegenie/gym_project)

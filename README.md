@@ -46,9 +46,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JSS](https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=black)
+![CSS3](https://github.com/user-attachments/assets/8d395f46-1203-402d-94c8-eaca788e069f)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Apache Tomcat](https://github.com/user-attachments/assets/22519a06-5a00-472b-8938-b4c46fae0c34)
+![Bootstrap](https://github.com/user-attachments/assets/6801ee5c-a658-4de3-8355-ab1a615730ce)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 

@@ -1,4 +1,5 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+![header](https://via.placeholder.com/800x200/1abc9c/ffffff?text=풀스택+개발자+이세진입니다)
+
   
 # Thank you for visiting 👋
 <h1 align="center"> 풀스택 개발자 이세진입니다. </h1>
@@ -62,6 +63,4 @@
 ## 📞 **Contact Me**  
 
 - 📧 **Email:** [dltpwlswkdf@gmail.com](mailto:dltpwlswkdf@gmail.com)  
-
-</div>
 

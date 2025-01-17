@@ -28,7 +28,7 @@
 ### 📌 **더조은 도서관**  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
 - **주제 :** 도서 예약/대출 및 게시판 커뮤니티 시스템  
-- [흑백요리사 GitHub 링크](https://github.com/xegenie/library_project)
+- [더조은 도서관 GitHub 링크](https://github.com/xegenie/library_project)
 
 
 ---
